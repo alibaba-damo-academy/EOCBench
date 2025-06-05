@@ -40,7 +40,7 @@ Set up your environment with ease:
 conda create --name eocbench python=3.10
 conda activate eocbench
 
-git clone git@github.com:CircleRadon/EOCBench.git
+git clone git@github.com:alibaba-damo-academy/EOCBench.git
 cd EOCBench
 
 pip install -r requirements.txt
