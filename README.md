@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![arXiv preprint](https://img.shields.io/badge/arxiv-2501.00599-ECA8A7?logo=arxiv)](http://arxiv.org/abs/2501.00599) 
+[![arXiv preprint](https://img.shields.io/badge/arxiv-2506.05287-ECA8A7?logo=arxiv)](https://arxiv.org/abs/2506.05287) 
 [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CircleRadon/EOC-Bench)
 [![Project Page](https://img.shields.io/badge/🌐%20Project-Page-9DC3E6)](https://circleradon.github.io/EOCBench/)
 [![Learderboard](https://img.shields.io/badge/🏆%20Leaderboard-Page-96D03A)](https://circleradon.github.io/EOCBench/#leaderboard)
@@ -68,7 +68,7 @@ To submit your results to the leaderboard, please send to [circleradon@gmail.com
       title     = {EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?},
       journal   = {arXiv},
       year      = {2025},
-      url       = {}
+      url       = {https://arxiv.org/abs/2506.05287}
     }
 ```
 
