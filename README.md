@@ -13,7 +13,7 @@
 </div>
 
 ## 🔍 Overview
-we introduce <strong>EOC-Bench</strong>, an innovative benchmark designed to systematically evaluate object-centric embodied cognition in dynamic egocentric scenarios.
+we introduce <strong>EOC-Bench</strong>, an innovative benchmark designed to systematically evaluate <strong>object-centric embodied cognition in dynamic egocentric scenarios</strong>.
 Specially, <strong>EOC-Bench</strong> features 3,277 meticulously annotated QA pairs categorized into three temporal categories: Past, Present, and Future, covering 11 fine-grained evaluation  dimensions and 3 visual object referencing types.
 To ensure thorough assessment, we develop a  mixed-format human-in-the-loop annotation framework with four types of questions and design a novel multi-scale temporal accuracy metric for open-ended temporal evaluation. 
 
