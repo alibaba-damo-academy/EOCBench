@@ -6,6 +6,7 @@
 [![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/CircleRadon/EOC-Bench)
 [![Project Page](https://img.shields.io/badge/🌐%20Project-Page-9DC3E6)](https://circleradon.github.io/EOCBench/)
 [![Learderboard](https://img.shields.io/badge/🏆%20Leaderboard-Page-96D03A)](https://circleradon.github.io/EOCBench/#leaderboard)
+[![Blog](https://img.shields.io/badge/Blog-ZhiHu-1E90FF?logo=zhihu&logoColor=02B5FD)](https://zhuanlan.zhihu.com/p/1917725466296562079)
 
 
 
